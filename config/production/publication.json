@@ -217,13 +217,13 @@
     "branchtag": "kandidaat-2022-02-23-01",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
-    "dummy": "041"
+    "dummy": "050"
   },
   {
     "urlref": "/doc/applicationprofile/consent/",
     "seealso": "/doc/applicationprofile/consent/kandidaatstandaard/2022-02-23",
     "type": "ap",
-    "dummy": "019"
+    "dummy": "020"
   },
   {
     "urlref": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
@@ -231,13 +231,13 @@
     "branchtag": "kandidaat-2022-02-23-01",
     "name": "OSLO-consent-voc",
     "filename": "config/consent-voc.json",
-    "dummy": "029"
+    "dummy": "030"
   },
   {
     "urlref": "/ns/consent/",
     "seealso": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
     "type": "voc",
-    "dummy": "018"
+    "dummy": "020"
   },
   {
     "urlref": "/doc/applicationprofile/AirAndWater/Core/",
