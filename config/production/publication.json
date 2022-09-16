@@ -95,7 +95,7 @@
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/stopplaces-ap/working-draft/2022-04-21",
     "type": "ap",
-    "dummy": "dimi-14"
+    "dummy": "dimi-15"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/working-draft/2022-04-21",
@@ -104,7 +104,7 @@
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "dimi-14"
+    "dummy": "dimi-15"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/",
