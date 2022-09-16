@@ -80,7 +80,7 @@
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/working-draft/2022-04-21",
     "type": "ap",
-    "dummy": "dimi-14"
+    "dummy": "dimi-15"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/working-draft/2022-04-21",
@@ -89,7 +89,7 @@
     "name": "vehiclescheduling-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "dimi-14"
+    "dummy": "dimi-15"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/",
