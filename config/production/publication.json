@@ -135,7 +135,7 @@
     "branchtag": "kandidaat-2021-10-01-1",
     "name": "air",
     "filename": "config/OSLO-AirAndWater-VOC.json",
-    "dummy": "024"
+    "dummy": "025"
   },
   {
     "urlref": "/doc/vocabulary/air-and-water/water/kandidaatstandaard/2021-10-01",
@@ -143,7 +143,7 @@
     "branchtag": "kandidaat-2021-10-01-1",
     "name": "water",
     "filename": "config/OSLO-AirAndWater-VOC.json",
-    "dummy": "024"
+    "dummy": "025"
   },
   {
     "urlref": "/doc/applicationprofile/AirAndWater/Core/kandidaatstandaard/2021-10-01",
