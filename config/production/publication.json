@@ -9,7 +9,7 @@
       "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
     "disabled": false,
-    "dummy": "11"
+    "dummy": "12"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
@@ -21,14 +21,14 @@
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/working-draft/2022-05-01"
     },
     "disabled": false,
-    "dummy": "7"
+    "dummy": "8"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
     "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
     "type": "ap",
     "disabled": false,
-    "dummy": "7"
+    "dummy": "8"
   },
   {
     "urlref": "/doc/vocabulary/mobility/passenger-transport-hubs/working-draft/2022-05-01",
@@ -40,7 +40,7 @@
     "navigation": {
       "next": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
-    "dummy": "7"
+    "dummy": "8"
   },
   {
     "urlref": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
@@ -52,14 +52,14 @@
     "navigation": {
       "prev": "/doc/vocabulary/mobility/passenger-transport-hubs/working-draft/2022-05-01"
     },
-    "dummy": "7"
+    "dummy": "8"
   },
   {
     "urlref": "/ns/mobility/passenger-transport-hubs/",
     "seealso": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
     "type": "voc",
     "prefix": "mobility",
-    "dummy": "7"
+    "dummy": "8"
   },
   {
     "urlref": "/ns/mobility/timetables-and-planning/",
