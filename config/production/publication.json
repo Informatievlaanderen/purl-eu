@@ -9,26 +9,26 @@
       "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
     "disabled": false,
-    "dummy": "12"
+    "dummy": "13"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
-    "branchtag": "kandidaat-2022-10-11_02",
+    "branchtag": "kandidaat-2022-10-18_01",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
     "navigation": {
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/working-draft/2022-05-01"
     },
     "disabled": false,
-    "dummy": "8"
+    "dummy": "9"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
     "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
     "type": "ap",
     "disabled": false,
-    "dummy": "8"
+    "dummy": "9"
   },
   {
     "urlref": "/doc/vocabulary/mobility/passenger-transport-hubs/working-draft/2022-05-01",
@@ -40,26 +40,26 @@
     "navigation": {
       "next": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
-    "dummy": "8"
+    "dummy": "9"
   },
   {
     "urlref": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
-    "branchtag": "kandidaat-2022-10-11_02",
+    "branchtag": "kandidaat-2022-10-18_01",
     "name": "passenger-transport-hubs",
     "prefix": "mobility",
     "filename": "config/passenger-transport-hubs-voc.json",
     "navigation": {
       "prev": "/doc/vocabulary/mobility/passenger-transport-hubs/working-draft/2022-05-01"
     },
-    "dummy": "8"
+    "dummy": "9"
   },
   {
     "urlref": "/ns/mobility/passenger-transport-hubs/",
     "seealso": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
     "type": "voc",
     "prefix": "mobility",
-    "dummy": "8"
+    "dummy": "9"
   },
   {
     "urlref": "/ns/mobility/timetables-and-planning/",
