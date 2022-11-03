@@ -212,12 +212,12 @@
     }
   },
   {
-     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-01-11",
+     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-11-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-consent",
     "branchtag": "master",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
-    "dummy": "Geert-001"   
+    "dummy": "Geert-002"   
   },
   {
     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-02-23",
