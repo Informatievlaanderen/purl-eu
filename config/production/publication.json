@@ -40,7 +40,8 @@
     "navigation": {
       "next": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
-    "dummy": "10"
+    "dummy": "10",
+    "disabled": true
   },
   {
     "urlref": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
@@ -52,14 +53,16 @@
     "navigation": {
       "prev": "/doc/vocabulary/mobility/passenger-transport-hubs/working-draft/2022-05-01"
     },
-    "dummy": "10"
+    "dummy": "10",
+    "disabled": true
   },
   {
     "urlref": "/ns/mobility/passenger-transport-hubs/",
     "seealso": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
     "type": "voc",
     "prefix": "mobility",
-    "dummy": "10"
+    "dummy": "10",
+    "disabled": true
   },
   {
     "urlref": "/ns/mobility/timetables-and-planning/",
