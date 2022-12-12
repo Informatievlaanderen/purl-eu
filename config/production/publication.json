@@ -113,7 +113,7 @@
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/timetables-ap/working-draft/2022-04-21",
     "type": "ap",
-    "dummy": "geert-036"
+    "dummy": "geert-037"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/working-draft/2022-04-21",
@@ -122,7 +122,7 @@
     "name": "timetables-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "geert-036"
+    "dummy": "geert-037"
   },
   {
     "urlref": "/doc/vocabulary/air-and-water/core/kandidaatstandaard/2021-10-01",
