@@ -9,12 +9,12 @@
       "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
     "disabled": false,
-    "dummy": "01"
+    "dummy": "02"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
-    "branchtag": "kandidaat-2022-10-19_01",
+    "branchtag": "kandidaat-2022-10-19_02",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
     "navigation": {
@@ -22,7 +22,7 @@
       "next":"/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01"
     },
     "disabled": false,
-    "dummy": "01"
+    "dummy": "02"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
@@ -34,14 +34,14 @@
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
     "disabled": false,
-    "dummy": "01"
+    "dummy": "02"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
     "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
     "type": "ap",
     "disabled": false,
-    "dummy": "01"
+    "dummy": "02"
   },
   {
     "urlref": "/doc/vocabulary/mobility/passenger-transport-hubs/working-draft/2022-05-01",
@@ -53,7 +53,7 @@
     "navigation": {
       "next": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
-    "dummy": "01",
+    "dummy": "02",
     "disabled": false
   },
   {
@@ -67,7 +67,7 @@
       "prev": "/doc/vocabulary/mobility/passenger-transport-hubs/working-draft/2022-05-01",
       "next": "/doc/vocabulary/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01"
     },
-    "dummy": "01",
+    "dummy": "02",
     "disabled": false
   },
   {
@@ -80,7 +80,7 @@
     "navigation": {
       "prev": "/doc/vocabulary/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
-    "dummy": "01",
+    "dummy": "02",
     "disabled": false
   },
   {
@@ -88,7 +88,7 @@
     "seealso": "/doc/vocabulary/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
     "type": "voc",
     "prefix": "mobility",
-    "dummy": "01",
+    "dummy": "02",
     "disabled": false
   },
   {
