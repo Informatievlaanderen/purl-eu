@@ -95,7 +95,7 @@
     "urlref": "/ns/mobility/timetables-and-planning/",
     "seealso": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
     "type": "voc",
-    "dummy": "geert-12"
+    "dummy": "geert-13"
   },
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
@@ -104,13 +104,13 @@
     "name": "timetables-and-planning-voc",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "dummy": "geert-12"
+    "dummy": "geert-13"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/working-draft/2022-04-21",
     "type": "ap",
-    "dummy": "geert-29"
+    "dummy": "geert-30"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/working-draft/2022-04-21",
@@ -119,7 +119,7 @@
     "name": "vehiclescheduling-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "geert-29"
+    "dummy": "geert-30"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/",
