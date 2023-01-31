@@ -95,7 +95,7 @@
     "urlref": "/ns/mobility/timetables-and-planning/",
     "seealso": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
     "type": "voc",
-    "dummy": "geert-20"
+    "dummy": "geert-21"
   },
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
@@ -104,7 +104,7 @@
     "name": "timetables-and-planning-voc",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "dummy": "geert-20"
+    "dummy": "geert-21"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/",
