@@ -95,7 +95,7 @@
     "urlref": "/ns/mobility/timetables-and-planning/",
     "seealso": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
     "type": "voc",
-    "dummy": "geert-36"
+    "dummy": "geert-37"
   },
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
@@ -104,13 +104,13 @@
     "name": "timetables-and-planning-voc",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "dummy": "geert-36"
+    "dummy": "geert-37"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/working-draft/2022-04-21",
     "type": "ap",
-    "dummy": "geert-35"
+    "dummy": "geert-36"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/working-draft/2022-04-21",
@@ -119,13 +119,13 @@
     "name": "vehiclescheduling-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "geert-35"
+    "dummy": "geert-36"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/stopplaces-ap/working-draft/2022-04-21",
     "type": "ap",
-    "dummy": "geert-037"
+    "dummy": "geert-038"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/working-draft/2022-04-21",
@@ -134,13 +134,13 @@
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "geert-037"
+    "dummy": "geert-038"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/timetables-ap/working-draft/2022-04-21",
     "type": "ap",
-    "dummy": "geert-054"
+    "dummy": "geert-055"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/working-draft/2022-04-21",
@@ -149,7 +149,7 @@
     "name": "timetables-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "geert-054"
+    "dummy": "geert-055"
   },
   {
     "urlref": "/doc/vocabulary/air-and-water/core/kandidaatstandaard/2021-10-01",
