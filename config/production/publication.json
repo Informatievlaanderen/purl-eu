@@ -100,7 +100,7 @@
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "erkend-2022-04-21-edited02",
     "name": "timetables-and-planning-voc",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
@@ -115,7 +115,7 @@
   {
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/working-draft/2022-04-21",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "erkend-2022-04-21-edited02",
     "name": "vehiclescheduling-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
@@ -130,7 +130,7 @@
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/working-draft/2022-04-21",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "erkend-2022-04-21-edited02",
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
@@ -145,7 +145,7 @@
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/working-draft/2022-04-21",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "erkend-2022-04-21-edited02",
     "name": "timetables-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
