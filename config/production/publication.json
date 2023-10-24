@@ -152,6 +152,15 @@
     "dummy": "geert-055"
   },
   {
+    "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/recommended-standard/2023-11-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master",
+    "name": "timetables-ap",
+    "filename": "config/NeTEx-Belgium-AP.json",
+    "navigation": {},
+    "dummy": "geert-001"
+  },
+  {
     "urlref": "/doc/vocabulary/air-and-water/core/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "kandidaat-2021-10-01-1",
