@@ -19,7 +19,7 @@
     "filename": "config/passenger-transport-hubs-ap.json",
     "navigation": {
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/working-draft/2022-05-01",
-      "next":"/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01"
+      "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01"
     },
     "disabled": false,
     "dummy": "02"
@@ -93,18 +93,20 @@
   },
   {
     "urlref": "/ns/mobility/timetables-and-planning/",
+    "prefix": "mobility",
     "seealso": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2023-11-01",
     "type": "voc",
-    "dummy": "geert-09"
+    "dummy": "kristof-01"
   },
-   {
+  {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2023-11-01",
+    "prefix": "mobility",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
     "branchtag": "master",
-    "name": "timetables-and-planning-voc",
+    "name": "timetables-and-planning",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "dummy": "geert-09"
+    "dummy": "kristof-01"
   },
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
@@ -138,7 +140,7 @@
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
     "dummy": "geert-012"
-  },  
+  },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/stopplaces-ap/recommended-standard/2023-11-01",
@@ -154,7 +156,7 @@
     "navigation": {},
     "dummy": "geert-044"
   },
-   {
+  {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/recommended-standard/2023-11-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
     "branchtag": "master",
@@ -162,7 +164,7 @@
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
     "dummy": "geert-013"
-  }, 
+  },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/timetables-ap/recommended-standard/2023-11-01",
@@ -278,12 +280,12 @@
     }
   },
   {
-     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-11-01",
+    "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-11-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-consent",
     "branchtag": "master",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
-    "dummy": "Geert-017"   
+    "dummy": "Geert-017"
   },
   {
     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-02-23",
