@@ -307,13 +307,13 @@
     "branchtag": "kandidaat-2022-02-23-002",
     "name": "consent",
     "filename": "config/consent-voc.json",
-    "dummy": "031"
+    "dummy": "032"
   },
   {
     "urlref": "/ns/consent/",
     "seealso": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
     "type": "voc",
-    "dummy": "021"
+    "dummy": "022"
   },
   {
     "urlref": "/doc/applicationprofile/AirAndWater/Core/",
