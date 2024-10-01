@@ -304,16 +304,16 @@
   {
     "urlref": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-consent",
-    "branchtag": "kandidaat-2022-02-23-002",
+    "branchtag": "kandidaat-2022-02-23-003",
     "name": "consent",
     "filename": "config/consent-voc.json",
-    "dummy": "032"
+    "dummy": "033"
   },
   {
     "urlref": "/ns/consent/",
     "seealso": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
     "type": "voc",
-    "dummy": "022"
+    "dummy": "023"
   },
   {
     "urlref": "/doc/applicationprofile/AirAndWater/Core/",
