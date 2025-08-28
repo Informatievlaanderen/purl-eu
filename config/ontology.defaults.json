@@ -1,7 +1,0 @@
-{
-    "dcterms:license" : "https://creativecommons.org/publicdomain/zero/1.0/",
-    "dcterms:mediator" : { "foaf:homepage" : "https://purl.eu",
-		           "foaf:mbox" : "mailto:digitaal.vlaanderen@vlaanderen.be",
-			   "foaf:name" : "Purl.eu" 
-    }
-}

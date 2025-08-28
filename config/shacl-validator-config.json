@@ -1,6 +1,0 @@
-{
-  "LABEL": {
-    "location": "URL to SHACL SHAPE",
-    "dependencies": ["BACKGROUND URL"]
-  }
-}
