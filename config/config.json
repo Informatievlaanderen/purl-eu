@@ -1,28 +1,26 @@
 {
-  "primeLanguage": "nl",
+  "primeLanguage": "en",
   "otherLanguages": [
-    "en",
-    "fr",
-    "de"
+    "nl"
   ],
-  "hostname": "https://dev.specs.org/",
-  "domain": "data.spec.org",
+  "hostname": "https://purl.eu/",
+  "domain": "purl.eu",
   "publicationpoints": [
     "dev"
   ],
   "generatedrepository": {
-    "organisation": "GitHubOrganisation",
-    "repository": "GeneratedRepository",
+    "organisation": "informatievlaanderen",
+    "repository": "purl-eu-generated",
     "private": false,
-    "gitEmail": "toolchain@dev.specs.org",
+    "gitEmail": "toolchain@purl.eu",
     "gitUser": "toolchain"
   },
   "toolchainversion": "4.0.1",
   "toolchain": {
     "strickness": "lazy",
     "version": 4,
-    "triggerall": true,
-    "autotranslate": false
+    "triggerall": false, 
+    "autotranslate": true
   },
   "shaclgenerator": {
     "parameters-old": "-m individual -c 'uniqueLanguages' -c 'nodeKind'"
