@@ -60,7 +60,7 @@
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/stopplaces-ap/recommended-standard/2023-11-01/test",
     "type": "ap",
-    "dummy": "geert-012"
+    "dummy": "geert-014"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/working-draft/2022-04-21",
@@ -69,7 +69,7 @@
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "geert-043"
+    "dummy": "geert-044"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/recommended-standard/2023-11-01",
@@ -78,32 +78,32 @@
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "geert-014"
+    "dummy": "geert-015"
   },
    {
     "urlref": "/ns/mobility/timetables-and-planning/",
     "prefix": "mobility",
     "seealso": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2023-11-01",
     "type": "voc",
-    "dummy": "kristof-01"
+    "dummy": "kristof-02"
   },
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2023-11-01",
     "prefix": "mobility",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "master-node-toolchain",
     "name": "timetables-and-planning",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "dummy": "kristof-01"
+    "dummy": "kristof-02"
   },
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "erkend-2022-04-21-edited02",
+    "branchtag": "master-node-toolchain",
     "name": "timetables-and-planning-voc",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "dummy": "geert-37"
+    "dummy": "geert-38"
   }
 ]
