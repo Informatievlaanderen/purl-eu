@@ -36,6 +36,19 @@
     "disabled": false,
     "dummy": "02"
   },
+
+    {
+    "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01/test",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
+    "branchtag": "master",
+    "name": "OSLO-PassengerTransportHubs-AP",
+    "filename": "config/passenger-transport-hubs-ap.json",
+    "navigation": {
+      "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
+    },
+    "disabled": false,
+    "dummy": "02"
+  },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
     "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
