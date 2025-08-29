@@ -15,7 +15,7 @@
     "gitEmail": "toolchain@purl.eu",
     "gitUser": "toolchain"
   },
-  "toolchainversion": "4.0.1",
+  "toolchainversion": "4.1.1",
   "toolchain": {
     "strickness": "lazy",
     "version": 4,
