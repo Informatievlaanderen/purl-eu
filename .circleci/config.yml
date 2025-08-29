@@ -586,7 +586,7 @@ workflows:
           requires:
             - checkout
       - render-translation-4:
-          generatedRepoFingerprint: "$$SSHKEYFINGERPRINT"
+          generatedRepoFingerprint: "68:17:a9:db:c9:0b:ad:5c:03:d5:52:01:4c:78:f6:d4"
           requires:
             - extract-jsonld-details-4
       - render-rdf-details-4:
@@ -626,6 +626,6 @@ workflows:
             # - render-example-templates
             - copy-raw
       - create-artifact:
-          generatedRepoFingerprint: "$$SSHKEYFINGERPRINT"
+          generatedRepoFingerprint: "68:17:a9:db:c9:0b:ad:5c:03:d5:52:01:4c:78:f6:d4"
           requires:
             - expand-links
