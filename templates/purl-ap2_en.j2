@@ -13,43 +13,45 @@
       <link
          rel="icon"
          sizes="192x192"
-         href="https://dij151upo6vad.cloudfront.net/2.latest/icons/app-icon/icon-highres-precomposed.png"/>
+     href="https://data.vlaanderen.be/assets/favicon/icons/icon-highres-precomposed.png"/>
+
       <link
          rel="apple-touch-icon"
-         href="https://dij151upo6vad.cloudfront.net/2.latest/icons/app-icon/touch-icon-iphone-precomposed.png"/>
+         href="https://data.vlaanderen.be/assets/favicon/icons/icon-highres-precomposed.png"/>
+
       <link
          rel="apple-touch-icon"
          sizes="76x76"
-         href="https://dij151upo6vad.cloudfront.net/2.latest/icons/app-icon/touch-icon-ipad-precomposed.png"/>
+         href="https://data.vlaanderen.be/assets/favicon/icons/icon-highres-precomposed.png"/>
       <link
          rel="apple-touch-icon"
          sizes="120x120"
-         href="https://dij151upo6vad.cloudfront.net/2.latest/icons/app-icon/touch-icon-iphone-retina-precomposed.png"/>
+         href="https://data.vlaanderen.be/assets/favicon/icons/icon-highres-precomposed.png"/>
       <link
          rel="apple-touch-icon"
          sizes="152x152"
-         href="https://dij151upo6vad.cloudfront.net/2.latest/icons/app-icon/touch-icon-ipad-retina-precomposed.png"/>
+         href="https://data.vlaanderen.be/assets/favicon/icons/icon-highres-precomposed.png"/>
+
       <meta
          name="msapplication-square70x70logo"
-         content="https://dij151upo6vad.cloudfront.net/2.latest/icons/app-icon/tile-small.png"/>
+         content="https://data.vlaanderen.be/assets/favicon/icons/tile-small.png"/>
       <meta
          name="msapplication-square150x150logo"
-         content="https://dij151upo6vad.cloudfront.net/2.latest/icons/app-icon/tile-medium.png"/>
+         content="https://data.vlaanderen.be/assets/favicon/icons/tile-medium.png"/>
       <meta
          name="msapplication-wide310x150logo"
-         content="https://dij151upo6vad.cloudfront.net/2.latest/icons/app-icon/tile-wide.png"/>
+         content="https://data.vlaanderen.be/assets/favicon/icons/tile-wide.png"/>
       <meta
          name="msapplication-square310x310logo"
-         content="https://dij151upo6vad.cloudfront.net/2.latest/icons/app-icon/tile-large.png"/>
+         content="https://data.vlaanderen.be/assets/favicon/icons/tile-large.png"/>
       <meta name="msapplication-TileColor" content="#FFE615"/>
       <script src="https://prod.widgets.burgerprofiel.vlaanderen.be/api/v1/node_modules/@govflanders/vl-widget-polyfill/dist/index.js"></script>
    </head>
    <body>
       <div
-         style="min-height:44px;;" id="purl-header">
+         style="min-height:44px;;" id="vlaanderen-header">
          <!-- insert your global header here -->
-        <title>Purl</title>
-         <i class="logo">PurlLogo</i>       
+         <script src="https://prod.widgets.burgerprofiel.vlaanderen.be/api/v1/widget/b0dae312-e7a6-4612-978a-f0e3b2d975bf/embed"></script>          
         <!-- end global header-->
       </div>
       <!-- Start page content -->
@@ -594,7 +596,7 @@
                         {% endblock %}
                      </div>
                      <div class="region region--no-space-top" id="mappingext">
-                        <h2 class="h2" aria-level="1" role="heading" id="h2_sotd">Gebruikte (externe) terminologie</h2>
+                        <h2 class="h2" aria-level="1" role="heading" id="h2_sotd">Used (external) terminology</h2>
                            <p>This section provides an overview of how terminology from vocabularies is used in this application profile.</p>
                         <p>
                               This application profile relies on terms from these proprietary vocabularies:
@@ -697,22 +699,22 @@
                            <div class="side-navigation__group">
                               <ul>
                                  <li class="side-navigation__item">
-                                    <a href="#introduction">Inleiding</a>
+                                    <a href="#introduction">Introduction</a>
                                  </li>
                                  <li class="side-navigation__item">
-                                    <a href="#summary">Samenvatting</a>
+                                    <a href="#summary">Summary</a>
                                  </li>
                                  <li class="side-navigation__item">
-                                    <a href="#status">Status van dit document</a>
+                                    <a href="#status">Status of this document</a>
                                  </li>
                                  <li class="side-navigation__item">
-                                    <a href="#license">Licentie</a>
+                                    <a href="#license">License</a>
                                  </li>
                                  <li class="side-navigation__item">
-                                    <a href="#conformance">Conformiteit</a>
+                                    <a href="#conformance">Conformance</a>
                                  </li>
                                  <li class="side-navigation__item">
-                                    <a href="#overview">Overzicht</a>
+                                    <a href="#overview">Overview</a>
                                  </li>
                                  <li class="side-navigation__item">
                                     <a href="#jsonld">JSON-LD Context</a>
@@ -721,7 +723,7 @@
                                     <a href="#shacl">SHACL template</a>
                                  </li>
                                  <li class="side-navigation__item">
-                                    <a href="#mappingext">Externe terminologie</a>
+                                    <a href="#mappingext">External terminology</a>
                                  </li>
                               </ul>
                            </div>
@@ -739,7 +741,8 @@
          <script src="https://prod.widgets.burgerprofiel.vlaanderen.be/api/v1/widget/f1d7f80f-ad17-4f25-92b4-027a99785068/embed"></script>
          <!-- End global footer-->
       </div>
-      <script src="https://dij151upo6vad.cloudfront.net/2.latest/js/vlaanderen-ui.js"></script>
+         <script src="https://data.vlaanderen.be/assets/dist/core.js"></script>
+         <script src="https://data.vlaanderen.be/assets/dist/tooltip.js"></script>
       <style>
          .external {
             line-break: anywhere;
