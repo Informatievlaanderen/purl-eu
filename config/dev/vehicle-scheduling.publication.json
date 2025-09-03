@@ -1,0 +1,26 @@
+[
+{
+    "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/",
+    "seealso": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/recommended-standard/2023-11-01",
+    "type": "ap",
+    "dummy": "geert-012"
+  },
+  {
+    "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/working-draft/2022-04-21",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "erkend-2022-04-21-edited02",
+    "name": "vehiclescheduling-ap",
+    "filename": "config/NeTEx-Belgium-AP.json",
+    "navigation": {},
+    "dummy": "geert-36"
+  },
+  {
+    "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/recommended-standard/2023-11-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master",
+    "name": "vehiclescheduling-ap",
+    "filename": "config/NeTEx-Belgium-AP.json",
+    "navigation": {},
+    "dummy": "geert-012"
+  }
+]

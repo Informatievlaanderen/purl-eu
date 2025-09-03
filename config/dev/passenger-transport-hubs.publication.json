@@ -1,0 +1,59 @@
+[
+  {
+    "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/working-draft/2022-05-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
+    "branchtag": "ontwerp-2022-05-01",
+    "name": "OSLO-PassengerTransportHubs-AP",
+    "filename": "config/passenger-transport-hubs-ap.json",
+    "navigation": {
+      "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
+    },
+    "disabled": false,
+    "dummy": "02"
+  },
+  {
+    "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
+    "branchtag": "kandidaat-2022-10-19_02",
+    "name": "OSLO-PassengerTransportHubs-AP",
+    "filename": "config/passenger-transport-hubs-ap.json",
+    "navigation": {
+      "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/working-draft/2022-05-01",
+      "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01"
+    },
+    "disabled": false,
+    "dummy": "02"
+  },
+  {
+    "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
+    "branchtag": "erkend-20221201_01",
+    "name": "OSLO-PassengerTransportHubs-AP",
+    "filename": "config/passenger-transport-hubs-ap.json",
+    "navigation": {
+      "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
+    },
+    "disabled": false,
+    "dummy": "02"
+  },
+
+    {
+    "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01/test",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
+    "branchtag": "master",
+    "name": "OSLO-PassengerTransportHubs-AP",
+    "filename": "config/passenger-transport-hubs-ap.json",
+    "navigation": {
+      "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
+    },
+    "disabled": false,
+    "dummy": "03"
+  },
+  {
+    "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
+    "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
+    "type": "ap",
+    "disabled": false,
+    "dummy": "01"
+  }
+]

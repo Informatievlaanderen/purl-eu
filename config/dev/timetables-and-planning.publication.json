@@ -1,0 +1,28 @@
+[
+  {
+    "urlref": "/ns/mobility/timetables-and-planning/",
+    "prefix": "mobility",
+    "seealso": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2023-11-01",
+    "type": "voc",
+    "dummy": "kristof-02"
+  },
+  {
+    "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2023-11-01",
+    "prefix": "mobility",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master-node-toolchain",
+    "name": "timetables-and-planning",
+    "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
+    "navigation": {},
+    "dummy": "2"
+  },
+  {
+    "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master-node-toolchain",
+    "name": "timetables-and-planning-voc",
+    "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
+    "navigation": {},
+    "dummy": "geert-38"
+  }
+]

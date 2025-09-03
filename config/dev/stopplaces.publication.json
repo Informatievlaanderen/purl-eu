@@ -1,0 +1,28 @@
+[ 
+ {
+    "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/",
+    "seealso": "/doc/applicationprofile/netex-belgium/stopplaces-ap/recommended-standard/2023-11-01/test",
+    "type": "ap",
+    "dummy": "geert-016"
+  },
+  {
+    "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/working-draft/2022-04-21",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master-node-toolchain",
+    "name": "stopplaces-ap",
+    "filename": "config/NeTEx-Belgium-AP.json",
+    "navigation": {},
+    "dummy": "5"
+
+  },
+  {
+    "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/recommended-standard/2023-11-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master-node-toolchain",
+    "name": "stopplaces-ap",
+    "filename": "config/NeTEx-Belgium-AP.json",
+    "navigation": {},
+    "dummy": "4"
+
+  }
+]
