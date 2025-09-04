@@ -4,7 +4,7 @@
     "prefix": "mobility",
     "seealso": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2023-11-01",
     "type": "voc",
-    "dummy": "kristof-02"
+    "dummy": "kristof-03"
   },
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2023-11-01",
@@ -14,7 +14,7 @@
     "name": "timetables-and-planning",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "dummy": "2"
+    "dummy": "3"
   },
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
@@ -23,6 +23,6 @@
     "name": "timetables-and-planning-voc",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "dummy": "geert-38"
+    "dummy": "geert-39"
   }
 ]
