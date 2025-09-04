@@ -1,8 +1,9 @@
 [
-{
+  {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/timetables-ap/recommended-standard/2023-11-01",
     "type": "ap",
+    "disabled": true,
     "dummy": "geert-019"
   },
   {
@@ -12,6 +13,7 @@
     "name": "timetables-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
+    "disabled": true,
     "dummy": "geert-056"
   },
   {
@@ -21,6 +23,7 @@
     "name": "timetables-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
+    "disabled": true,
     "dummy": "geert-019"
   }
 ]
