@@ -3,18 +3,18 @@
     "urlref": "/doc/vocabulary/air-and-water/core/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-airAndWater",
     "branchtag": "master",
-    "disabled": true,
     "name": "core",
     "filename": "config/OSLO-AirAndWater-VOC.json",
+    "disabled": true,
     "dummy": "031"
   },
   {
     "urlref": "/doc/applicationprofile/AirAndWater/Core/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-airAndWater",
     "branchtag": "master",
-    "disabled": true,
     "name": "OSLO-airAndWater-Core-ap",
     "filename": "config/OSLO-AirAndWater-AP.json",
+    "disabled": true,
     "dummy": "054",
     "navigation": {
       "prev": "/doc/applicationprofile/AirAndWater/Core/ontwerpstandaard/2021-04-16"
@@ -24,9 +24,9 @@
     "urlref": "/doc/applicationprofile/AirAndWater/Core/ontwerpstandaard/2021-04-16",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "master",
-    "disabled": true,
     "name": "OSLO-airAndWater-Core-ap",
     "filename": "config/OSLO-AirAndWater-Core-AP.json",
+    "disabled": true,
     "dummy": "004",
     "navigation": {
       "next": "/doc/applicationprofile/AirAndWater/Core/kandidaatstandaard/2021-10-01"
