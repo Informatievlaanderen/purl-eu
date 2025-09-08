@@ -5,34 +5,34 @@
     "branchtag": "master",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
-    "dummy": "Geert-018"
+    "dummy": "Geert-019"
   },
   {
     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-02-23",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-consent",
-    "branchtag": "kandidaat-2022-02-23-01",
+    "branchtag": "master",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
-    "dummy": "051"
+    "dummy": "052"
   },
   {
     "urlref": "/doc/applicationprofile/consent/",
     "seealso": "/doc/applicationprofile/consent/kandidaatstandaard/2022-02-23",
     "type": "ap",
-    "dummy": "022"
+    "dummy": "023"
   },
   {
     "urlref": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-consent",
-    "branchtag": "kandidaat-2022-02-23-003",
+    "branchtag": "master",
     "name": "consent",
     "filename": "config/consent-voc.json",
-    "dummy": "034"
+    "dummy": "035"
   },
   {
     "urlref": "/ns/consent/",
     "seealso": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
     "type": "voc",
-    "dummy": "025"
+    "dummy": "026"
   }
 ]
