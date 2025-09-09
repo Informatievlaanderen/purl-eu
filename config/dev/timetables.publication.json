@@ -4,26 +4,26 @@
     "seealso": "/doc/applicationprofile/netex-belgium/timetables-ap/recommended-standard/2023-11-01",
     "type": "ap",
     "disabled": true,
-    "dummy": "geert-023"
+    "dummy": "geert-019"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/working-draft/2022-04-21",
-    "repository": "https://github.com/larsDeWolf6/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "origin/master",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "erkend-2022-04-21-edited02",
     "name": "timetables-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
     "disabled": true,
-    "dummy": "geert-060"
+    "dummy": "geert-056"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/recommended-standard/2023-11-01",
-    "repository": "https://github.com/larsDeWolf6/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "origin/master",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master",
     "name": "timetables-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
     "disabled": true,
-    "dummy": "geert-023"
+    "dummy": "geert-019"
   }
 ]
