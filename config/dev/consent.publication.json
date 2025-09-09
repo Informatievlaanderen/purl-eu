@@ -5,7 +5,7 @@
     "branchtag": "master",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
-    "dummy": "Geert-021"
+    "dummy": "Geert-022"
   },
   {
     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-02-23",
@@ -13,13 +13,13 @@
     "branchtag": "master",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
-    "dummy": "054"
+    "dummy": "055"
   },
   {
     "urlref": "/doc/applicationprofile/consent/",
     "seealso": "/doc/applicationprofile/consent/kandidaatstandaard/2022-02-23",
     "type": "ap",
-    "dummy": "025"
+    "dummy": "026"
   },
   {
     "urlref": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
@@ -27,12 +27,12 @@
     "branchtag": "master",
     "name": "consent",
     "filename": "config/consent-voc.json",
-    "dummy": "037"
+    "dummy": "038"
   },
   {
     "urlref": "/ns/consent/",
     "seealso": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
     "type": "voc",
-    "dummy": "028"
+    "dummy": "029"
   }
 ]

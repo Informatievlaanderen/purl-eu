@@ -3,7 +3,7 @@
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/",
     "seealso": "/doc/applicationprofile/netex-belgium/stopplaces-ap/recommended-standard/2023-11-01/test",
     "type": "ap",
-    "dummy": "geert-020"
+    "dummy": "geert-021"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/working-draft/2022-04-21",
@@ -12,7 +12,7 @@
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "9"
+    "dummy": "10"
 
   },
   {
@@ -22,7 +22,7 @@
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "dummy": "8"
+    "dummy": "9"
 
   }
 ]
