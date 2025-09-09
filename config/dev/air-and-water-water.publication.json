@@ -2,18 +2,18 @@
     {
     "urlref": "/doc/vocabulary/air-and-water/water/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-airAndWater",
-    "branchtag": "origin/master",
+    "branchtag": "master",
     "name": "water",
     "filename": "config/OSLO-AirAndWater-VOC.json",
-    "dummy": "031"
+    "dummy": "032"
   },
     {
     "urlref": "/doc/applicationprofile/AirAndWater/Water/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/larsDeWolf/OSLOthema-airAndWater",
-    "branchtag": "origin/master",
+    "branchtag": "master",
     "name": "OSLO-airAndWater-Water-ap",
     "filename": "config/OSLO-AirAndWater-AP.json",
-    "dummy": "043",
+    "dummy": "044",
     "navigation": {
       "prev": "/doc/applicationprofile/AirAndWater/Water/ontwerpstandaard/2021-04-16"
     }
@@ -21,10 +21,10 @@
     {
     "urlref": "/doc/applicationprofile/AirAndWater/Water/ontwerpstandaard/2021-04-16",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-airAndWater",
-    "branchtag": "origin/master",
+    "branchtag": "master",
     "name": "OSLO-airAndWater-Water-ap",
     "filename": "config/OSLO-AirAndWater-Water-AP.json",
-    "dummy": "007",
+    "dummy": "008",
     "navigation": {
       "next": "/doc/applicationprofile/AirAndWater/Water/kandidaatstandaard/2021-10-01"
     }
@@ -33,12 +33,12 @@
     "urlref": "/doc/applicationprofile/AirAndWater/Water/",
     "seealso": "/doc/applicationprofile/AirAndWater/Water/kandidaatstandaard/2021-10-01",
     "type": "ap",
-    "dummy": "016"
+    "dummy": "017"
   },
    {
     "urlref": "/ns/air-and-water/water/",
     "seealso": "/doc/vocabulary/air-and-water/water/kandidaatstandaard/2021-10-01",
     "type": "voc",
-    "dummy": "010"
+    "dummy": "011"
   }
 ]
