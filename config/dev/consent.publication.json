@@ -2,7 +2,7 @@
   {
     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-11-01",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-consent",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
     "dummy": "Geert-022"
@@ -10,7 +10,7 @@
   {
     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-02-23",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-consent",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
     "dummy": "055"
@@ -24,7 +24,7 @@
   {
     "urlref": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-consent",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "consent",
     "filename": "config/consent-voc.json",
     "dummy": "038"

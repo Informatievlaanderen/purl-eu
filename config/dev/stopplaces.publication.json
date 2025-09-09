@@ -8,7 +8,7 @@
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/working-draft/2022-04-21",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
@@ -18,7 +18,7 @@
   {
     "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/recommended-standard/2023-11-01",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},

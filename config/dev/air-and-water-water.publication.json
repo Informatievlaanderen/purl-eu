@@ -2,7 +2,7 @@
     {
     "urlref": "/doc/vocabulary/air-and-water/water/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-airAndWater",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "water",
     "filename": "config/OSLO-AirAndWater-VOC.json",
     "dummy": "030"
@@ -10,7 +10,7 @@
     {
     "urlref": "/doc/applicationprofile/AirAndWater/Water/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/larsDeWolf/OSLOthema-airAndWater",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "OSLO-airAndWater-Water-ap",
     "filename": "config/OSLO-AirAndWater-AP.json",
     "dummy": "042",
@@ -21,7 +21,7 @@
     {
     "urlref": "/doc/applicationprofile/AirAndWater/Water/ontwerpstandaard/2021-04-16",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-airAndWater",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "OSLO-airAndWater-Water-ap",
     "filename": "config/OSLO-AirAndWater-Water-AP.json",
     "dummy": "006",

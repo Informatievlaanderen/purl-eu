@@ -8,7 +8,7 @@
   {
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/working-draft/2022-04-21",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "erkend-2022-04-21-edited02",
+    "branchtag": "origin/master",
     "name": "vehiclescheduling-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
@@ -17,7 +17,7 @@
   {
     "urlref": "/doc/applicationprofile/netex-belgium/vehiclescheduling-ap/recommended-standard/2023-11-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "vehiclescheduling-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},

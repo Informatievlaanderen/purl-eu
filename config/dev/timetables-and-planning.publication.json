@@ -10,7 +10,7 @@
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2023-11-01",
     "prefix": "mobility",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "timetables-and-planning",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
@@ -19,7 +19,7 @@
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/recommended-standard/2022-04-21",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-mobiliteitDienstregelingEnPlanning",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "timetables-and-planning-voc",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},

@@ -2,7 +2,7 @@
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/working-draft/2022-05-01",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-passengerTransportHubs",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
     "navigation": {
@@ -14,7 +14,7 @@
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-passengerTransportHubs",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
     "navigation": {
@@ -27,7 +27,7 @@
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-passengerTransportHubs",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
     "navigation": {
@@ -40,7 +40,7 @@
     {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01/test",
     "repository": "https://github.com/larsDeWolf6/OSLOthema-passengerTransportHubs",
-    "branchtag": "master",
+    "branchtag": "origin/master",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
     "navigation": {
