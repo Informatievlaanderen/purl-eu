@@ -5,7 +5,7 @@
     "branchtag": "kandidaat-2021-10-01-1",
     "name": "water",
     "filename": "config/OSLO-AirAndWater-VOC.json",
-    "dummy": "028"
+    "dummy": "029"
   },
     {
     "urlref": "/doc/applicationprofile/AirAndWater/Water/kandidaatstandaard/2021-10-01",
@@ -13,7 +13,7 @@
     "branchtag": "kandidaat-2021-10-01-1",
     "name": "OSLO-airAndWater-Water-ap",
     "filename": "config/OSLO-AirAndWater-AP.json",
-    "dummy": "040",
+    "dummy": "041",
     "navigation": {
       "prev": "/doc/applicationprofile/AirAndWater/Water/ontwerpstandaard/2021-04-16"
     }
@@ -24,7 +24,7 @@
     "branchtag": "2021-04-16-1",
     "name": "OSLO-airAndWater-Water-ap",
     "filename": "config/OSLO-AirAndWater-Water-AP.json",
-    "dummy": "004",
+    "dummy": "005",
     "navigation": {
       "next": "/doc/applicationprofile/AirAndWater/Water/kandidaatstandaard/2021-10-01"
     }
@@ -33,12 +33,12 @@
     "urlref": "/doc/applicationprofile/AirAndWater/Water/",
     "seealso": "/doc/applicationprofile/AirAndWater/Water/kandidaatstandaard/2021-10-01",
     "type": "ap",
-    "dummy": "013"
+    "dummy": "014"
   },
    {
     "urlref": "/ns/air-and-water/water/",
     "seealso": "/doc/vocabulary/air-and-water/water/kandidaatstandaard/2021-10-01",
     "type": "voc",
-    "dummy": "007"
+    "dummy": "008"
   }
 ]
