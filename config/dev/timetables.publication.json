@@ -4,7 +4,7 @@
     "seealso": "/doc/applicationprofile/netex-belgium/timetables-ap/recommended-standard/2023-11-01",
     "type": "ap",
     "disabled": true,
-    "dummy": "geert-020"
+    "dummy": "geert-021"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/working-draft/2022-04-21",
@@ -14,7 +14,7 @@
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
     "disabled": true,
-    "dummy": "geert-057"
+    "dummy": "geert-058"
   },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/recommended-standard/2023-11-01",
@@ -24,6 +24,6 @@
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
     "disabled": true,
-    "dummy": "geert-020"
+    "dummy": "geert-021"
   }
 ]

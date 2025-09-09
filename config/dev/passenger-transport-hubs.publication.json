@@ -9,7 +9,7 @@
       "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
     "disabled": false,
-    "dummy": "03"
+    "dummy": "04"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11",
@@ -22,7 +22,7 @@
       "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01"
     },
     "disabled": false,
-    "dummy": "03"
+    "dummy": "04"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
@@ -34,7 +34,7 @@
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
     "disabled": false,
-    "dummy": "03"
+    "dummy": "04"
   },
 
     {
@@ -47,13 +47,13 @@
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
     "disabled": false,
-    "dummy": "04"
+    "dummy": "05"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
     "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
     "type": "ap",
     "disabled": false,
-    "dummy": "02"
+    "dummy": "03"
   }
 ]
