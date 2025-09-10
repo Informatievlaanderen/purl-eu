@@ -33,7 +33,7 @@
     "name": "vehiclescheduling-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "disabled": true,
-    "dummy": "2"
+    "disabled": false,
+    "dummy": "3"
   }
 ]

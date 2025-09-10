@@ -36,8 +36,8 @@
     "name": "timetables-and-planning",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "disabled": true,
-    "dummy": "2"
+    "disabled": false,
+    "dummy": "3"
   },
   {
     "urlref": "/doc/vocabulary/mobility/timetables-and-planning/ontwerpstandaard/toolchain4",
@@ -46,7 +46,7 @@
     "name": "timetables-and-planning-voc",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "disabled": true,
-    "dummy": "2"
+    "disabled": false,
+    "dummy": "3"
   }
 ]
