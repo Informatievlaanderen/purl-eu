@@ -60,10 +60,10 @@
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/ontwerpstandaard/toolchain4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
-    "branchtag": "ontwerp-2022-05-01",
+    "branchtag": "master",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
-    "disabled": true,
-    "dummy": "01"
+    "disabled": false,
+    "dummy": "02"
   }
 ]

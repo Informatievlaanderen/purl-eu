@@ -47,7 +47,7 @@
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
     "disabled": false,
-    "dummy": "4"
+    "dummy": "5"
   },
     {
     "urlref": "/doc/vocabulary/consent/ontwerpstandaard/toolchain4",
@@ -56,6 +56,6 @@
     "name": "consent",
     "filename": "config/consent-voc.json",
     "disabled":false,
-    "dummy": "4"
+    "dummy": "5"
   }
 ]

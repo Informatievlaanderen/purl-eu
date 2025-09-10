@@ -50,8 +50,8 @@
     "branchtag": "master",
     "name": "air",
     "filename": "config/OSLO-AirAndWater-VOC.json",
-    "disabled": true,
-    "dummy": "1"
+    "disabled": false,
+    "dummy": "2"
   },
     {
     "urlref": "/doc/applicationprofile/AirAndWater/Air/ontwerpstandaard/toolchain4",
@@ -59,7 +59,7 @@
     "branchtag": "master",
     "name": "OSLO-airAndWater-Air-ap",
     "filename": "config/OSLO-AirAndWater-AP.json",
-    "disabled": true,
-    "dummy": "1" 
+    "disabled": false,
+    "dummy": "2" 
   }
 ]
