@@ -53,8 +53,8 @@
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
     "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
     "type": "ap",
-    "disabled": true,
-    "dummy": "02"
+    "disabled": false,
+    "dummy": "03"
   },
 
   {
@@ -63,7 +63,7 @@
     "branchtag": "master",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
-    "disabled": true,
-    "dummy": "02"
+    "disabled": false,
+    "dummy": "03"
   }
 ]
