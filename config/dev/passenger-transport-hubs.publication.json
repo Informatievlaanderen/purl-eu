@@ -63,7 +63,7 @@
     "branchtag": "master",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
-    "disabled": false,
+    "disabled": true,
     "dummy": "02"
   }
 ]

@@ -34,7 +34,7 @@
     "name": "stopplaces-ap",
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
-    "disabled": false,
+    "disabled": true,
     "dummy": "2"
   }
 ]

@@ -53,7 +53,7 @@
     "name": "core",
     "filename": "config/OSLO-AirAndWater-VOC.json",
     "disabled": false,
-    "dummy": "2"
+    "dummy": "3"
   },
   {
     "urlref": "/doc/applicationprofile/AirAndWater/Core/ontwerpstandaard/toolchain4",
@@ -62,7 +62,7 @@
     "name": "OSLO-airAndWater-Core-ap",
     "filename": "config/OSLO-AirAndWater-AP.json",
     "disabled": false,
-    "dummy": "2"
+    "dummy": "3"
 
   }
 ]

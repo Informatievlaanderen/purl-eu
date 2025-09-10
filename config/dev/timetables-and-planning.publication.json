@@ -36,7 +36,7 @@
     "name": "timetables-and-planning",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "disabled": false,
+    "disabled": true,
     "dummy": "2"
   },
   {
@@ -46,7 +46,7 @@
     "name": "timetables-and-planning-voc",
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
-    "disabled": false,
+    "disabled": true,
     "dummy": "2"
   }
 ]
