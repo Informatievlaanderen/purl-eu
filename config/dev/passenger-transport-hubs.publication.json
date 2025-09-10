@@ -8,7 +8,7 @@
     "navigation": {
       "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
-    "disabled": false,
+    "disabled": true,
     "dummy": "03"
   },
   {
@@ -21,7 +21,7 @@
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/working-draft/2022-05-01",
       "next": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01"
     },
-    "disabled": false,
+    "disabled": true,
     "dummy": "03"
   },
   {
@@ -33,7 +33,7 @@
     "navigation": {
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
-    "disabled": false,
+    "disabled": true,
     "dummy": "03"
   },
 
@@ -46,14 +46,14 @@
     "navigation": {
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
-    "disabled": false,
+    "disabled": true,
     "dummy": "04"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
     "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
     "type": "ap",
-    "disabled": false,
+    "disabled": true,
     "dummy": "02"
   },
 
@@ -63,6 +63,7 @@
     "branchtag": "ontwerp-2022-05-01",
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
+    "disabled": true,
     "dummy": "01"
   }
 ]
