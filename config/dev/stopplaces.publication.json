@@ -23,6 +23,14 @@
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
     "dummy": "5"
-
+  },
+    {
+    "urlref": "/doc/applicationprofile/netex-belgium/stopplaces-ap/ontwerpstandaard/toolchain4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master",
+    "name": "stopplaces-ap",
+    "filename": "config/NeTEx-Belgium-AP.json",
+    "navigation": {},
+    "dummy": "1"
   }
 ]

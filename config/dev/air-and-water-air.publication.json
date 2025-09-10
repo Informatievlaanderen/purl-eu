@@ -40,5 +40,21 @@
     "seealso": "/doc/vocabulary/air-and-water/air/kandidaatstandaard/2021-10-01",
     "type": "voc",
     "dummy": "010"
+  },
+      {
+    "urlref": "/doc/vocabulary/air-and-water/air/ontwerpstandaard/toolchain4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
+    "branchtag": "master",
+    "name": "air",
+    "filename": "config/OSLO-AirAndWater-VOC.json",
+    "dummy": "1"
+  },
+    {
+    "urlref": "/doc/applicationprofile/AirAndWater/Air/ontwerpstandaard/toolchain4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
+    "branchtag": "master",
+    "name": "OSLO-airAndWater-Air-ap",
+    "filename": "config/OSLO-AirAndWater-AP.json",
+    "dummy": "1" 
   }
 ]

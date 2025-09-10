@@ -55,5 +55,14 @@
     "type": "ap",
     "disabled": false,
     "dummy": "02"
+  },
+
+  {
+    "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/ontwerpstandaard/toolchain4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
+    "branchtag": "ontwerp-2022-05-01",
+    "name": "OSLO-PassengerTransportHubs-AP",
+    "filename": "config/passenger-transport-hubs-ap.json",
+    "dummy": "01"
   }
 ]

@@ -24,5 +24,24 @@
     "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
     "navigation": {},
     "dummy": "geert-39"
+  },
+    {
+    "urlref": "/doc/vocabulary/mobility/timetables-and-planning/ontwerpstandaard/toolchain4",
+    "prefix": "mobility",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master",
+    "name": "timetables-and-planning",
+    "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
+    "navigation": {},
+    "dummy": "1"
+  },
+  {
+    "urlref": "/doc/vocabulary/mobility/timetables-and-planning/ontwerpstandaard/toolchain4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
+    "branchtag": "master",
+    "name": "timetables-and-planning-voc",
+    "filename": "config/OSLO-TimetablesAndPlanning-VOC.json",
+    "navigation": {},
+    "dummy": "1"
   }
 ]

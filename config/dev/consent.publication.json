@@ -34,5 +34,21 @@
     "seealso": "/doc/vocabulary/consent/kandidaatstandaard/2022-02-23",
     "type": "voc",
     "dummy": "023"
+  },
+  {
+    "urlref": "/doc/applicationprofile/consent/ontwerpstandaard/toolchain4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-consent",
+    "branchtag": "master",
+    "name": "OSLO-consent-ap",
+    "filename": "config/consent-ap.json",
+    "dummy": "1"
+  },
+    {
+    "urlref": "/doc/vocabulary/consent/ontwerpstandaard/toolchain4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-consent",
+    "branchtag": "master",
+    "name": "consent",
+    "filename": "config/consent-voc.json",
+    "dummy": "1"
   }
 ]
