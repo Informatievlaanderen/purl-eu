@@ -46,8 +46,8 @@
     "branchtag": "master",
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
-    "disabled": true,
-    "dummy": "3"
+    "disabled": false,
+    "dummy": "4"
   },
     {
     "urlref": "/doc/vocabulary/consent/ontwerpstandaard/toolchain4",
@@ -55,7 +55,7 @@
     "branchtag": "master",
     "name": "consent",
     "filename": "config/consent-voc.json",
-    "disabled":true,
-    "dummy": "3"
+    "disabled":false,
+    "dummy": "4"
   }
 ]
