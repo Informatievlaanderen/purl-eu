@@ -2,81 +2,50 @@
   "baseURI": "http://todo.com/",
   "classes": [
     {
+      "id": "http://todo.com/Uitkomst",
+      "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
+      "properties": [
+        {
+          "id": "http://todo.com/temp",
+          "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
+          "domain": "http://todo.com/Uitkomst",
+          "range": {
+            "id": "http://www.w3.org/2001/XMLSchema#int",
+            "listedInDocument": false,
+            "vocabularyLabel": {
+              "de": "int"
+            },
+            "applicationProfileLabel": {
+              "de": "int"
+            }
+          },
+          "minCount": "1",
+          "maxCount": "1"
+        }
+      ]
+    },
+    {
       "id": "http://todo.com/Neerlegging",
-      "vocabularyLabel": {
-        "nl": "Neerlegging"
-      },
-      "applicationProfileLabel": {
-        "nl": "Neerlegging"
-      },
-      "vocabularyDefinition": {
-        "nl": "Activiteit waarbij een FinancieelRapport officieel wordt ingediend."
-      },
-      "applicationProfileDefinition": {
-        "nl": "Activiteit waarbij een FinancieelRapport officieel wordt ingediend."
-      },
-      "vocabularyUsageNote": {
-        "nl": "Het gaat typisch om een wettelijke verplichting,bvb de Neerlegging van een Jaarrekening bij de Nationale Bank van België,bedoeld om inzicht te geven in de financiële positie van de Organisatie waarmee men omgaat."
-      },
-      "applicationProfileUsageNote": {
-        "nl": "Het gaat typisch om een wettelijke verplichting,bvb de Neerlegging van een Jaarrekening bij de Nationale Bank van België,bedoeld om inzicht te geven in de financiële positie van de Organisatie waarmee men omgaat."
-      },
       "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
       "properties": [
         {
           "id": "http://todo.com/Neerlegging.datum",
-          "vocabularyLabel": {
-            "nl": "datum"
-          },
-          "applicationProfileLabel": {
-            "nl": "datum"
-          },
-          "vocabularyDefinition": {
-            "nl": "De datum waarop het rapport werd neergelegd."
-          },
-          "applicationProfileDefinition": {
-            "nl": "De datum waarop het rapport werd neergelegd."
-          },
           "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
           "domain": "http://todo.com/Neerlegging",
           "range": {
             "id": "http://def.isotc211.org/iso19108/2006/TemporalObjects#TM_Instant",
-            "listedInDocument": false,
-            "vocabularyLabel": {
-              "nl": "Moment"
-            },
-            "applicationProfileLabel": {
-              "nl": "Moment"
-            }
+            "listedInDocument": false
           },
           "minCount": "1",
           "maxCount": "1"
         },
         {
           "id": "http://todo.com/Neerlegging.neergelegdBij",
-          "vocabularyLabel": {
-            "nl": "neergelegdBij"
-          },
-          "applicationProfileLabel": {
-            "nl": "neergelegdBij"
-          },
-          "vocabularyDefinition": {
-            "nl": "De Organisatie waarbij het rapport werd neergelegd"
-          },
-          "applicationProfileDefinition": {
-            "nl": "De Organisatie waarbij het rapport werd neergelegd"
-          },
           "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
           "domain": "http://todo.com/Neerlegging",
           "range": {
             "id": "http://www.w3.org/ns/org#Organization",
-            "listedInDocument": true,
-            "vocabularyLabel": {
-              "nl": "Organisatie"
-            },
-            "applicationProfileLabel": {
-              "nl": "Organisatie"
-            }
+            "listedInDocument": true
           },
           "minCount": "1",
           "maxCount": "1"
@@ -85,85 +54,20 @@
     },
     {
       "id": "http://www.w3.org/ns/org#Organization",
-      "vocabularyLabel": {
-        "nl": "Organisatie"
-      },
-      "applicationProfileLabel": {
-        "nl": "Organisatie"
-      },
-      "vocabularyDefinition": {
-        "nl": "Een aantal mensen georganiseerd in een gemeenschap of andere sociale, commerciële of politieke structuur. De groep heeft een gemeenschappelijk doel of bestaansreden die de individuele leden ervan overstijgt en kan handelen als agent. Een organisatie heeft dikwijls een hiërarchische structuur."
-      },
-      "applicationProfileDefinition": {
-        "nl": "Een aantal mensen georganiseerd in een gemeenschap of andere sociale, commerciële of politieke structuur. De groep heeft een gemeenschappelijk doel of bestaansreden die de individuele leden ervan overstijgt en kan handelen als agent. Een organisatie heeft dikwijls een hiërarchische structuur."
-      },
       "scope": "https://data.vlaanderen.be/id/concept/scope/External",
       "properties": [
         {
           "id": "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "vocabularyLabel": {
-            "nl": "voorkeursnaam"
-          },
-          "applicationProfileLabel": {
-            "nl": "voorkeursnaam"
-          },
-          "vocabularyDefinition": {
-            "nl": "Naam waarmee de organisatie bij voorkeur wordt aangeduid."
-          },
-          "applicationProfileDefinition": {
-            "nl": "Naam waarmee de organisatie bij voorkeur wordt aangeduid."
-          },
           "scope": "https://data.vlaanderen.be/id/concept/scope/External",
           "domain": "http://www.w3.org/ns/org#Organization",
           "range": {
             "id": "http://www.w3.org/2001/XMLSchema#string",
             "listedInDocument": false,
             "vocabularyLabel": {
-              "nl": "String"
+              "de": "String"
             },
             "applicationProfileLabel": {
-              "nl": "String"
-            }
-          },
-          "minCount": "1",
-          "maxCount": "1"
-        }
-      ]
-    },
-    {
-      "id": "http://todo.com/Uitkomst",
-      "vocabularyLabel": {
-        "nl": "Uitkomst"
-      },
-      "applicationProfileLabel": {
-        "nl": "Uitkomst"
-      },
-      "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
-      "properties": [
-        {
-          "id": "http://todo.com/temp",
-          "vocabularyLabel": {
-            "nl": "Temp"
-          },
-          "applicationProfileLabel": {
-            "nl": "Temp"
-          },
-          "vocabularyDefinition": {
-            "nl": "Dit is de definitie van dit label"
-          },
-          "applicationProfileDefinition": {
-            "nl": "Dit is de definitie van dit label"
-          },
-          "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
-          "domain": "http://todo.com/Uitkomst",
-          "range": {
-            "id": "http://www.w3.org/2001/XMLSchema#int",
-            "listedInDocument": false,
-            "vocabularyLabel": {
-              "nl": "int"
-            },
-            "applicationProfileLabel": {
-              "nl": "int"
+              "de": "String"
             }
           },
           "minCount": "1",
@@ -175,88 +79,40 @@
   "dataTypes": [],
   "properties": [
     {
-      "id": "http://todo.com/Neerlegging.datum",
-      "vocabularyLabel": {
-        "nl": "datum"
-      },
-      "applicationProfileLabel": {
-        "nl": "datum"
-      },
-      "vocabularyDefinition": {
-        "nl": "De datum waarop het rapport werd neergelegd."
-      },
-      "applicationProfileDefinition": {
-        "nl": "De datum waarop het rapport werd neergelegd."
-      },
-      "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
-      "domain": "http://todo.com/Neerlegging",
-      "range": {
-        "id": "http://def.isotc211.org/iso19108/2006/TemporalObjects#TM_Instant",
-        "listedInDocument": false,
-        "vocabularyLabel": {
-          "nl": "Moment"
-        },
-        "applicationProfileLabel": {
-          "nl": "Moment"
-        }
-      },
-      "minCount": "1",
-      "maxCount": "1"
-    },
-    {
-      "id": "http://todo.com/Neerlegging.neergelegdBij",
-      "vocabularyLabel": {
-        "nl": "neergelegdBij"
-      },
-      "applicationProfileLabel": {
-        "nl": "neergelegdBij"
-      },
-      "vocabularyDefinition": {
-        "nl": "De Organisatie waarbij het rapport werd neergelegd"
-      },
-      "applicationProfileDefinition": {
-        "nl": "De Organisatie waarbij het rapport werd neergelegd"
-      },
-      "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
-      "domain": "http://todo.com/Neerlegging",
-      "range": {
-        "id": "http://www.w3.org/ns/org#Organization",
-        "listedInDocument": true,
-        "vocabularyLabel": {
-          "nl": "Organisatie"
-        },
-        "applicationProfileLabel": {
-          "nl": "Organisatie"
-        }
-      },
-      "minCount": "1",
-      "maxCount": "1"
-    },
-    {
       "id": "http://todo.com/temp",
-      "vocabularyLabel": {
-        "nl": "Temp"
-      },
-      "applicationProfileLabel": {
-        "nl": "Temp"
-      },
-      "vocabularyDefinition": {
-        "nl": "Dit is de definitie van dit label"
-      },
-      "applicationProfileDefinition": {
-        "nl": "Dit is de definitie van dit label"
-      },
       "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
       "domain": "http://todo.com/Uitkomst",
       "range": {
         "id": "http://www.w3.org/2001/XMLSchema#int",
         "listedInDocument": false,
         "vocabularyLabel": {
-          "nl": "int"
+          "de": "int"
         },
         "applicationProfileLabel": {
-          "nl": "int"
+          "de": "int"
         }
+      },
+      "minCount": "1",
+      "maxCount": "1"
+    },
+    {
+      "id": "http://todo.com/Neerlegging.datum",
+      "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
+      "domain": "http://todo.com/Neerlegging",
+      "range": {
+        "id": "http://def.isotc211.org/iso19108/2006/TemporalObjects#TM_Instant",
+        "listedInDocument": false
+      },
+      "minCount": "1",
+      "maxCount": "1"
+    },
+    {
+      "id": "http://todo.com/Neerlegging.neergelegdBij",
+      "scope": "https://data.vlaanderen.be/id/concept/scope/InPackage",
+      "domain": "http://todo.com/Neerlegging",
+      "range": {
+        "id": "http://www.w3.org/ns/org#Organization",
+        "listedInDocument": true
       },
       "minCount": "1",
       "maxCount": "1"
