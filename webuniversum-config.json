@@ -51,6 +51,29 @@
           "maxCount": "1"
         }
       ]
+    },
+    {
+      "id": "http://www.w3.org/ns/org#Organization",
+      "scope": "https://data.vlaanderen.be/id/concept/scope/External",
+      "properties": [
+        {
+          "id": "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "scope": "https://data.vlaanderen.be/id/concept/scope/External",
+          "domain": "http://www.w3.org/ns/org#Organization",
+          "range": {
+            "id": "http://www.w3.org/2001/XMLSchema#string",
+            "listedInDocument": false,
+            "vocabularyLabel": {
+              "de": "String"
+            },
+            "applicationProfileLabel": {
+              "de": "String"
+            }
+          },
+          "minCount": "1",
+          "maxCount": "1"
+        }
+      ]
     }
   ],
   "dataTypes": [],
