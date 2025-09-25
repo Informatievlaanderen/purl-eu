@@ -36,8 +36,7 @@
     "disabled": true,
     "dummy": "03"
   },
-
-    {
+  {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01/test",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
     "branchtag": "master",
@@ -56,7 +55,6 @@
     "disabled": false,
     "dummy": "03"
   },
-
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/ontwerpstandaard/toolchain4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-passengerTransportHubs",
@@ -64,6 +62,6 @@
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
     "disabled": false,
-    "dummy": "03"
+    "dummy": "2025-09-25 11:08:05"
   }
 ]

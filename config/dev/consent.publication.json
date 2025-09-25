@@ -1,5 +1,5 @@
 [
-{
+  {
     "urlref": "/doc/applicationprofile/consent/kandidaatstandaard/2022-11-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-consent",
     "branchtag": "master",
@@ -47,15 +47,15 @@
     "name": "OSLO-consent-ap",
     "filename": "config/consent-ap.json",
     "disabled": false,
-    "dummy": "5"
+    "dummy": "2025-09-25 11:08:05"
   },
-    {
+  {
     "urlref": "/doc/vocabulary/consent/ontwerpstandaard/toolchain4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-consent",
     "branchtag": "master",
     "name": "consent",
     "filename": "config/consent-voc.json",
-    "disabled":false,
-    "dummy": "5"
+    "disabled": false,
+    "dummy": "2025-09-25 11:08:05"
   }
 ]

@@ -1,5 +1,5 @@
 [
-    {
+  {
     "urlref": "/doc/vocabulary/air-and-water/air/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "kandidaat-2021-10-01-1",
@@ -7,7 +7,7 @@
     "filename": "config/OSLO-AirAndWater-VOC.json",
     "dummy": "027"
   },
-    {
+  {
     "urlref": "/doc/applicationprofile/AirAndWater/Air/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "kandidaat-2021-10-01-1",
@@ -37,29 +37,29 @@
     "type": "ap",
     "dummy": "013"
   },
-   {
+  {
     "urlref": "/ns/air-and-water/air/",
     "seealso": "/doc/vocabulary/air-and-water/air/kandidaatstandaard/2021-10-01",
     "type": "voc",
     "disabled": true,
     "dummy": "010"
   },
-      {
+  {
     "urlref": "/doc/vocabulary/air-and-water/air/ontwerpstandaard/toolchain4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "master",
     "name": "air",
     "filename": "config/OSLO-AirAndWater-VOC.json",
     "disabled": false,
-    "dummy": "3"
+    "dummy": "2025-09-25 11:08:05"
   },
-    {
+  {
     "urlref": "/doc/applicationprofile/AirAndWater/Air/ontwerpstandaard/toolchain4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "master",
     "name": "OSLO-airAndWater-Air-ap",
     "filename": "config/OSLO-AirAndWater-AP.json",
     "disabled": false,
-    "dummy": "3" 
+    "dummy": "2025-09-25 11:08:05"
   }
 ]

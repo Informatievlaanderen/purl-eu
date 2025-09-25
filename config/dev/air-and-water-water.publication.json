@@ -1,5 +1,5 @@
 [
-    {
+  {
     "urlref": "/doc/vocabulary/air-and-water/water/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "kandidaat-2021-10-01-1",
@@ -8,7 +8,7 @@
     "disabled": true,
     "dummy": "027"
   },
-    {
+  {
     "urlref": "/doc/applicationprofile/AirAndWater/Water/kandidaatstandaard/2021-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "kandidaat-2021-10-01-1",
@@ -20,7 +20,7 @@
       "prev": "/doc/applicationprofile/AirAndWater/Water/ontwerpstandaard/2021-04-16"
     }
   },
-    {
+  {
     "urlref": "/doc/applicationprofile/AirAndWater/Water/ontwerpstandaard/2021-04-16",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "2021-04-16-1",
@@ -39,29 +39,29 @@
     "disabled": true,
     "dummy": "012"
   },
-   {
+  {
     "urlref": "/ns/air-and-water/water/",
     "seealso": "/doc/vocabulary/air-and-water/water/kandidaatstandaard/2021-10-01",
     "type": "voc",
     "disabled": true,
     "dummy": "006"
   },
-      {
+  {
     "urlref": "/doc/vocabulary/air-and-water/water/ontwerpstandaard/toolchain4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "master",
     "name": "water",
     "filename": "config/OSLO-AirAndWater-VOC.json",
     "disabled": false,
-    "dummy": "3"
+    "dummy": "2025-09-25 11:08:05"
   },
-    {
+  {
     "urlref": "/doc/applicationprofile/AirAndWater/Water/ontwerpstandaard/toolchain4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-airAndWater",
     "branchtag": "master",
     "name": "OSLO-airAndWater-Water-ap",
     "filename": "config/OSLO-AirAndWater-AP.json",
     "disabled": false,
-    "dummy": "3"
+    "dummy": "2025-09-25 11:08:05"
   }
 ]

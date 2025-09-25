@@ -25,7 +25,7 @@
     "navigation": {},
     "disabled": true,
     "dummy": "geert-019"
-  }, 
+  },
   {
     "urlref": "/doc/applicationprofile/netex-belgium/timetables-ap/ontwerpstandaard/toolchain4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteitDienstregelingEnPlanning",
@@ -34,6 +34,6 @@
     "filename": "config/NeTEx-Belgium-AP.json",
     "navigation": {},
     "disabled": false,
-    "dummy": "4"
+    "dummy": "2025-09-25 11:08:05"
   }
 ]
