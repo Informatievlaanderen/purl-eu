@@ -46,7 +46,7 @@
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
     "disabled": true,
-    "dummy": "005"
+    "dummy": "006"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/ontwerpstandaard/toolchain4",
@@ -55,7 +55,7 @@
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
     "disabled": false,
-    "dummy": "2025-10-08s"
+    "dummy": "006"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
