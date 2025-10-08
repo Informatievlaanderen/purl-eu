@@ -46,14 +46,7 @@
       "prev": "/doc/applicationprofile/mobility/passenger-transport-hubs/kandidaatstandaard/2022-07-11"
     },
     "disabled": true,
-    "dummy": "04"
-  },
-  {
-    "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
-    "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
-    "type": "ap",
-    "disabled": false,
-    "dummy": "03"
+    "dummy": "005"
   },
   {
     "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/ontwerpstandaard/toolchain4",
@@ -62,6 +55,13 @@
     "name": "OSLO-PassengerTransportHubs-AP",
     "filename": "config/passenger-transport-hubs-ap.json",
     "disabled": false,
-    "dummy": "2025-09-25 11:08:05"
+    "dummy": "2025-10-08s"
+  },
+  {
+    "urlref": "/doc/applicationprofile/mobility/passenger-transport-hubs/",
+    "seealso": "/doc/applicationprofile/mobility/passenger-transport-hubs/erkendestandaard/2022-12-01",
+    "type": "ap",
+    "disabled": false,
+    "dummy": "004"
   }
 ]
